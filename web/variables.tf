@@ -1,0 +1,7 @@
+variable "ps" {
+  
+}
+
+variable "sg" {
+  
+}
