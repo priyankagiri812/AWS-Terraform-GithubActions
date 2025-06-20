@@ -8,3 +8,4 @@ module "web" {
   ps = module.vpc.public_subnet
   sg = module.vpc.security_group
 }
+

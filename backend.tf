@@ -5,6 +5,5 @@ terraform {
     bucket = "506732059186-s3bucket"
     key    = "state"
     region = "ap-south-1"
-    dynamodb_table = "terraform_state"
   }
 }
