@@ -5,6 +5,6 @@ resource "aws_instance" "mywebserver" {
   subnet_id     = var.ps
   security_groups = [var.sg]
   tags = {
-    Name = "MyWebServer"
+    Name = "MyWebServer_updated"
 }
 }
